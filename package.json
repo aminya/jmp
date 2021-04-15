@@ -23,7 +23,7 @@
     },
     "dependencies": {
         "uuid": "3",
-        "zeromq": "https://github.com/aminya/zeromq.js"
+        "@aminya/zeromq": "5.2.6"
     },
     "engines": {
         "node": ">=6"
