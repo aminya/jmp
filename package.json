@@ -23,7 +23,7 @@
     },
     "dependencies": {
         "uuid": "3",
-        "@aminya/zeromq": "^5.2.14"
+        "@aminya/zeromq": "^5.2.15"
     },
     "engines": {
         "node": ">=6"
